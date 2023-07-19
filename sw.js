@@ -1,4 +1,4 @@
-const CacheName = '202307200255';
+const CacheName = '202307200258';
 const assets = [
     '/DateJumper/',
     '/DateJumper/index.html',
