@@ -1,7 +1,7 @@
-const CacheName = '202307200249';
+const CacheName = '202307200254';
 const assets = [
     '/',
-    '/index.html',
+    'index.html',
     '/assets/reset.css',
     '/assets/style.css',
     '/assets/script.js',
