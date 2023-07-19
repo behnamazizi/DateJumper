@@ -1,4 +1,4 @@
-const CacheName = '202307200310';
+const CacheName = '202307200314';
 const assets = [
     '/',
     '/index.html',
