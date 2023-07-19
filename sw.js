@@ -1,11 +1,11 @@
-const CacheName = '202307200151';
+const CacheName = '202307200249';
 const assets = [
-    '/DateJumper/',
-    '/DateJumper/index.html',
-    '/DateJumper/assets/reset.css',
-    '/DateJumper/assets/style.css',
-    '/DateJumper/assets/script.js',
-    '/DateJumper/assets/jalali-moment.browser.js',
+    '/',
+    '/index.html',
+    '/assets/reset.css',
+    '/assets/style.css',
+    '/assets/script.js',
+    '/assets/jalali-moment.browser.js',
 ];
 
 // install event
