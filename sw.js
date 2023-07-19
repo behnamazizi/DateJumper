@@ -1,6 +1,6 @@
 const CacheName = '202307200255';
 const assets = [
-    '/',
+    '/DateJumper/',
     '/DateJumper/index.html',
     '/DateJumper/assets/reset.css',
     '/DateJumper/assets/style.css',
